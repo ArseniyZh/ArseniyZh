@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArseniyZh
-- 👀 I’m interested in python
+- 👀 I’m interested in python and web-development
 - 🌱 I’m currently learning in school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
