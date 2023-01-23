@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @ArseniyZh
 - 👀 I’m interested in python and web-development
-- 🌱 I’m currently learning in school
+- 🌱 I’m currently learning in college
 - 💞️ I want to collaborate with Elon Musk
 - 📫 How to reach me teer_ok@mail.ru
 
