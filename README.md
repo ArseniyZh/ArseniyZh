@@ -7,7 +7,7 @@
 - 👀 I’m interested in python and web-development
 - 🌱 I’m currently learning in college
 - 💞️ I want to collaborate with Elon Musk
-- 📫 How to reach me teer_ok@mail.ru
+- 📫 How to reach me <a href="https://t.me/zhelvakovIT">@zhelvakovIT</a>
 
 <!---
 ArseniyZh/ArseniyZh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
